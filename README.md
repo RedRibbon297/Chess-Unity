@@ -6,7 +6,7 @@ The training videos on youtube [Unity Tutorial: Making Chess (Ethereal)](https:/
 ### License for graphics:
 Attribution 4.0 International (CC BY 4.0).  
 Ajay Karat | Devil's Work.shop  
-[Devil's Work.shop] (http://devilswork.shop/)  
+[Devil's Work.shop](http://devilswork.shop/)  
 help@devilswork.shop
 
 Not for commercial use.
